@@ -1,4 +1,4 @@
-# open_manipulator_astra_pro
+# open_manipulator_ar_tracker uinsg astra pro
 
 ## Download
 ```
